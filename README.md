@@ -1,3 +1,3 @@
-Esse Texto é para ser lido.
+Os textos anteriores foram apagados
 
-Este É outro texto a ser lido
+Esse agora é um novo Texto.
